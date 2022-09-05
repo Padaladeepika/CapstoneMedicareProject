@@ -1,0 +1,17 @@
+definations\CheckOutDeffs.class
+definations\HomePage.class
+definations\AdminE2EDeff.class
+definations\SignUpDeffs.class
+definations\HomePageStepDeffs.class
+definations\UserE2EPage.class
+definations\CheckOutPage.class
+definations\AdminE2EPage.class
+definations\LoginPage.class
+definations\LogInStepDeffs.class
+definations\SetUp.class
+definations\ManageProductPage.class
+definations\SignUpPage.class
+definations\UserE2EDeff.class
+definations\ManageProductDeff.class
+runner\TestRunner.class
+definations\APIstepDeff.class
